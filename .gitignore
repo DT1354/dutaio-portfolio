@@ -5,3 +5,7 @@ reference-frames/
 public/assets/artworks/
 public/assets/videos/
 gh.exe
+ffmpeg.exe
+*.ps1
+*.exe
+.DS_Store
