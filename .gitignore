@@ -1,0 +1,27 @@
+# dependencies
+node_modules/
+
+# next.js build output
+.next/
+
+# misc
+.DS_Store
+*.pem
+.env
+.env.local
+reference-frames/
+
+# debug
+npm-debug.log*
+
+# playwright screenshots
+.playwright-mcp/
+
+# vercel
+.vercel/
+
+# typescript
+*.tsbuildinfo
+public/assets/artworks/
+public/assets/videos/
+public/assets/bg-ink.mp4
